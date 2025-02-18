@@ -1,4 +1,5 @@
 👋 Hi, I'm Ghidion Ghirmay (Nani)
+
 🚀 About Me
 💻 Aspiring Full-Stack Web Developer
 🎨 Passionate about UI/UX design & Frontend Development
